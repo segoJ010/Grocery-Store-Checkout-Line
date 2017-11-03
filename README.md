@@ -3,4 +3,4 @@ Used the Queue Data Structure to create a line of customers entering, being serv
 Programming Language: Java 
 OS: Windows 7
 IDE: Eclipse
-Data Structure: Queue
+Data Structure: Queue, Linked List
